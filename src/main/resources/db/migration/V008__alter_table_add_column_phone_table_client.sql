@@ -1,0 +1,1 @@
+ALTER TABLE client ADD phone VARCHAR(10) NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE parking ADD COLUMN company_id BIGINT NOT NULL ;

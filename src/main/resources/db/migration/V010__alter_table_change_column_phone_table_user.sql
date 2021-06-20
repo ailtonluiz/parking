@@ -1,0 +1,2 @@
+ALTER TABLE user
+    CHANGE COLUMN `phone` `phone` VARCHAR(10) NOT NULL ;
